@@ -8,7 +8,7 @@
 
 🧠 My skills include mobile development (Android and Flutter) and Web Development skills, covering JavaScript, TypeScript, React, Redux, ContextAPI, TailwindCSS, MySQL and Node.
 
-📫 Meet me: **thiagons@live.com**
+📫 Meet me: **thiagons.dev@gmail.com**
 
 ## Languages and tools:
 
